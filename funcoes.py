@@ -94,4 +94,24 @@
 # print(contapar)
 
 
+#12(primo)
+# def primo(x):
+#     numero=int(input("me diga um numero:"))
+#     if numero 
+
+# n1=float(input("me diga um numero:"))
+# n2=float(input("me diga outro numero:"))
+# def operaçao(x, y):
+#     soma=(n1+n2)
+#     subtraçao=(n1-n2)
+#     mult=(n1*n2)
+#     divisao=(n2/n2)
+#     return(f"este é o resultado da operaçao soma {soma}")    
+#     return(f"este é o resultado da operaçao subtraçao {subtraçao} ")    
+#     return(f"este é o resultado da operaçao mult {mult}")    
+#     return(f"este é o resultado da operaçao divisao: {divisao}")
+
+
+# print(operaçao(return())
+
 
